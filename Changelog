@@ -1,3 +1,4 @@
+0.6.7 - Added Whitelist system and new config system (no confusing import questions!)
 0.6.6 - Improved auto-update and import questions, also fixed a bug
 0.6.5 - Improved auto-update so that it requires a wifi connection to automatically check
 0.6.4 - Added ‘back’ buttons and squashed some bugs
