@@ -1,6 +1,7 @@
+0.7.0 - Added battery options and improved back buttons. Version number is no longer nice.
 0.6.9 - Added a settings menu. Version number is now also nice.
 0.6.8 - Added many new features to encode/decode
-0.6.7 - Added Whitelist system and new config system (no confusing import questions!)
+0.6.7 - Added Whitelist system and new config system (no more confusing import questions!)
 0.6.6 - Improved auto-update and import questions, also fixed a bug
 0.6.5 - Improved auto-update so that it requires a wifi connection to automatically check
 0.6.4 - Added ‘back’ buttons and squashed some bugs
