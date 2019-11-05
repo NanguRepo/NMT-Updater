@@ -1,3 +1,4 @@
+0.7.1 - Made NMT public by removing the whitelist
 0.7.0 - Added battery options and improved back buttons. Version number is no longer nice.
 0.6.9 - Added a settings menu. Version number is now also nice.
 0.6.8 - Added many new features to encode/decode
